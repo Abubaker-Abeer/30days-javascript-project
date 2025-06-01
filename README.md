@@ -11,3 +11,4 @@ This repository contains all the projects completed during the **30 Days of Java
 | 3   | To-Do List        | [Live Demo](https://relaxed-bombolone-2273d1.netlify.app/) |
 | 4   | Memory Card Game  | [Live Demo](https://ornate-semifreddo-2fbe19.netlify.app/) |
 | 5   | Hangman Game      | [Live Demo](https://thriving-syrniki-952b76.netlify.app/) |
+| 6   | dot-connect-game     | [Live Demo](https://effortless-pithivier-79af68.netlify.app/) |
