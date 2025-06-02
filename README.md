@@ -13,4 +13,7 @@ This repository contains all the projects completed during the **30 Days of Java
 | 5   | Hangman Game      | [Live Demo](https://thriving-syrniki-952b76.netlify.app/) |
 | 6   | dot-connect-game     | [Live Demo](https://effortless-pithivier-79af68.netlify.app/) |
 | 7   | guess-the-country     | [Live Demo](https://shimmering-cendol-924964.netlify.app/) |
+| 8   | Tic Tac Toe     | [Live Demo](file:///C:/Users/Hp/Desktop/FULL%20STACK/Front%20end/30day%20js/Tic%20Tac%20Toe/index.html) |
+
+
 
