@@ -14,8 +14,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 6   | dot-connect-game     | [Live Demo](https://effortless-pithivier-79af68.netlify.app/) |
 | 7   | guess-the-country     | [Live Demo](https://shimmering-cendol-924964.netlify.app/) |
 | 8   | Tic Tac Toe     | [Live Demo](https://peppy-kitsune-0fd4d6.netlify.app/) |
-| 9  | sudoku    | [Live Demo](https://legendary-marigold-d40529.netlify.app/) |
-
-
-
-
+| 9   | sudoku    | [Live Demo](https://legendary-marigold-d40529.netlify.app/) |
+| 10  | shell-game    | [Live Demo](https://dapper-daffodil-6af88c.netlify.app/) |
