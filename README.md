@@ -16,5 +16,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 8   | Tic Tac Toe     | [Live Demo](https://peppy-kitsune-0fd4d6.netlify.app/) |
 | 9   | sudoku    | [Live Demo](https://legendary-marigold-d40529.netlify.app/) |
 | 10  | shell-game    | [Live Demo](https://dapper-daffodil-6af88c.netlify.app/) |
-| 11 | falling-ball-game | [Live Demo](https://tourmaline-cucurucho-1c3019.netlify.app/) |
+| 11 | falling-ball-game  | [Live Demo](https://tourmaline-cucurucho-1c3019.netlify.app/) |
 
