@@ -18,4 +18,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 10  | shell-game    | [Live Demo](https://dapper-daffodil-6af88c.netlify.app/) |
 | 11 | falling-ball-game  | [Live Demo](https://tourmaline-cucurucho-1c3019.netlify.app/) |
 | 12 | car-game  | [Live Demo](https://deluxe-arithmetic-5047f1.netlify.app/) |
+| 13 | insect-catching-game  | [Live Demo](https://capable-blini-9432c0.netlify.app/) |
 
