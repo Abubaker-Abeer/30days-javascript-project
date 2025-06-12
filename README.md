@@ -22,4 +22,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 14  | To-Do List              | [Live Demo](https://relaxed-bombolone-2273d1.netlify.app/) |
 | 15  | Weather App             | [Live Demo](https://elegant-frangollo-252b7c.netlify.app/) |
 | 16  | Dot Target game         | [Live Demo](https://sparkling-kleicha-479fc8.netlify.app/) |
+| 17  | tetris-game             | [Live Demo](https://neon-strudel-8e990b.netlify.app/) |
 
