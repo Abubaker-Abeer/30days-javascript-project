@@ -21,4 +21,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 13  | Tic Tac Toe             | [Live Demo](https://peppy-kitsune-0fd4d6.netlify.app/) |
 | 14  | To-Do List              | [Live Demo](https://relaxed-bombolone-2273d1.netlify.app/) |
 | 15  | Weather App             | [Live Demo](https://elegant-frangollo-252b7c.netlify.app/) |
+| 16  | Dot Target game         | [Live Demo](https://sparkling-kleicha-479fc8.netlify.app/) |
 
