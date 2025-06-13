@@ -1,0 +1,164 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: radial-gradient(circle at top left, #a1c4fd, #c2e9fb);
+  font-family: 'Poppins', sans-serif;
+  color: #333333;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2em;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 20px;
+  padding: 3em 2em;
+  width: 100%;
+  max-width: 800px;
+}
+
+.message {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 2em;
+  color: #333333;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+.computer img, .player img {
+  width: 150px;
+  height: auto;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+.points {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  margin: 2em 0;
+}
+
+.score-card {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 1em 2em;
+  border-radius: 15px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  text-align: center;
+  min-width: 120px;
+}
+
+.score-card:hover {
+  transform: scale(1.05);
+}
+
+.score-card span {
+  display: block;
+  font-size: 1rem;
+  color: #555555;
+  margin-bottom: 0.5em;
+}
+
+.score-card strong {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #66b3ff;
+}
+
+.divider {
+  font-size: 5rem;
+  color: #66b3ff;
+  font-weight: bold;
+}
+
+.options {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.options button {
+  background-color: #66b3ff;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  border: none;
+  padding: 1em 2em;
+  border-radius: 15px;
+  width: 150px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.options button:hover {
+  transform: scale(1.05);
+  background-color: #3a8bb7;
+}
+
+.options button:active {
+  background-color: #2c6e8c;
+}
+
+.shakeComputer {
+  animation: shakeComputer 0.8s linear;
+}
+
+.shakePlayer {
+  animation: shakePlayer 0.8s linear;
+}
+
+@keyframes shakeComputer {
+  0% {
+      transform: rotate(-30deg);
+  }
+  25% {
+      transform: rotate(30deg);
+  }
+  50% {
+      transform: rotate(-30deg);
+  }
+  75% {
+      transform: rotate(30deg);
+  }
+  100% {
+      transform: rotate(0deg);
+  }
+}
+
+@keyframes shakePlayer {
+  0% {
+      transform: rotate(30deg);
+  }
+  25% {
+      transform: rotate(-30deg);
+  }
+  50% {
+      transform: rotate(30deg);
+  }
+  75% {
+      transform: rotate(-30deg);
+  }
+  100% {
+      transform: rotate(0deg);
+  }
+}
