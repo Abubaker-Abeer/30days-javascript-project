@@ -1,0 +1,76 @@
+/* style.css */
+
+/* Import Google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #E3F2FD;
+}
+
+.wrapper {
+  width: 65vmin;
+  height: 70vmin;
+  display: grid;
+  grid-template-rows: auto 1fr auto;  /* header – play-board – controls */
+  border-radius: 8px;
+  overflow: hidden;
+  background: #293447;
+}
+
+/* 1. الهيدر */
+.game-details {
+  color: #B8C6DC;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* 2. مساحة اللعب */
+.play-board {
+  display: grid;
+  grid-template: repeat(30, 1fr) / repeat(30, 1fr);
+  background: #212837;
+}
+
+/* ألوان الطعام والثعبان */
+.play-board .food { background: #FF003D; }
+.play-board .head { background: #60CBFF; }
+.play-board .body { background: #0f0; }
+
+/* 3. شريط الأزرار */
+.controls {
+  background: #2c3e50;
+  display: flex;
+  justify-content: space-around;
+  padding: 4px 0;
+}
+
+.controls .arrow {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.2rem;
+  width: 40px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.controls .arrow:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
