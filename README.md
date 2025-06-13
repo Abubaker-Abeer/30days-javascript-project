@@ -25,4 +25,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 17  | To-Do List               | [Live Demo](https://relaxed-bombolone-2273d1.netlify.app/) |
 | 18  | Weather App              | [Live Demo](https://elegant-frangollo-252b7c.netlify.app/) |
 | 19  | Stick-Hero-Game          | [Live Demo](https://sensational-crostata-431e65.netlify.app/) |
+| 20  | Snake Game               | [Live Demo](https://heroic-fudge-1b90d9.netlify.app/)      |
 
