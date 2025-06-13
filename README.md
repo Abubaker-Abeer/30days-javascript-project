@@ -26,4 +26,4 @@ This repository contains all the projects completed during the **30 Days of Java
 | 18  | Weather App              | [Live Demo](https://elegant-frangollo-252b7c.netlify.app/) |
 | 19  | Stick-Hero-Game          | [Live Demo](https://sensational-crostata-431e65.netlify.app/) |
 | 20  | Snake Game               | [Live Demo](https://heroic-fudge-1b90d9.netlify.app/)      |
-
+| 21  | paper-rock-scissors Game | [Live Demo](https://remarkable-kangaroo-2f47dc.netlify.app/)      |
