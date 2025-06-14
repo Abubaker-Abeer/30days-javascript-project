@@ -30,4 +30,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 22  | Guess-My-Number Game | [Live Demo](https://glistening-gingersnap-d5fc14.netlify.app/)      |
 | 23  | juice-website-master| [Live Demo](https://fascinating-rugelach-a235fe.netlify.app/)      |
 | 24  | Luxurious-Perfume-Website| [Live Demo](https://silly-sorbet-1fefbe.netlify.app/)      |
+| 25  | Music-App| [Live Demo](https://darling-caramel-b613c2.netlify.app/)      |
 
