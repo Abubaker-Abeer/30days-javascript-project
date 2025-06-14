@@ -29,4 +29,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 21  | paper-rock-scissors Game | [Live Demo](https://remarkable-kangaroo-2f47dc.netlify.app/)      |
 | 22  | Guess-My-Number Game | [Live Demo](https://glistening-gingersnap-d5fc14.netlify.app/)      |
 | 23  | juice-website-master| [Live Demo](https://fascinating-rugelach-a235fe.netlify.app/)      |
+| 24  | Luxurious-Perfume-Website| [Live Demo](https://silly-sorbet-1fefbe.netlify.app/)      |
 
