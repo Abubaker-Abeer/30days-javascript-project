@@ -32,6 +32,7 @@ This repository contains all the projects completed during the **30 Days of Java
 | 24  | Luxurious-Perfume-Website| [Live Demo](https://silly-sorbet-1fefbe.netlify.app/)      |
 | 25  | Music-App| [Live Demo](https://darling-caramel-b613c2.netlify.app/)      |
 | 26  | Painting-Website| [Live Demo](https://merry-druid-e93c63.netlify.app/)      |
+| 27  | paper-rock-scissors| [Live Demo](https://venerable-vacherin-ea41d8.netlify.app/)      |
 
 
 
