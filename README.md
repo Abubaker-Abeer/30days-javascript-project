@@ -35,4 +35,4 @@ This repository contains all the projects completed during the **30 Days of Java
 | 27  | paper-rock-scissors| [Live Demo](https://venerable-vacherin-ea41d8.netlify.app/)      |
 | 28  | Quiz-Game| [Live Demo](https://glistening-pothos-2e923c.netlify.app/)      |
 | 29  | QR-Code-Generator| [Live Demo](https://relaxed-alpaca-f59a5f.netlify.app/)      |
-
+| 30  | Sticky Note| [Live Demo](https://graceful-parfait-4df7f5.netlify.app/)      |
