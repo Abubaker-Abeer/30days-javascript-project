@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <form class="wrapper" id="qrForm">
+        <h1>QR Code Generator</h1>
+        <input type="text" id="userInput" placeholder="Enter some text or URL">
+        <div class="options">
+            <select class="sizeOptions">
+                <option value="100" selected>100 x 100</option>
+                <option value="200">200 x 200</option>
+                <option value="300">300 x 300</option>
+            </select>
+            <input type="color" class="color-inp" id="BGColor" value="#ffffff">
+            <input type="color" class="color-inp" id="FGColor" value="#377dff">
+        </div>
+        <div class="box">
+            <button type="submit" id="submit" disabled>Generate</button>
+            <a href="#" id="download">Download</a>
+        </div>
+        <div class="container"></div>
+    </form>
+
+    <script src="./script.js"></script>
+</body>
+</html>
