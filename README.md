@@ -33,6 +33,5 @@ This repository contains all the projects completed during the **30 Days of Java
 | 25  | Music-App| [Live Demo](https://darling-caramel-b613c2.netlify.app/)      |
 | 26  | Painting-Website| [Live Demo](https://merry-druid-e93c63.netlify.app/)      |
 | 27  | paper-rock-scissors| [Live Demo](https://venerable-vacherin-ea41d8.netlify.app/)      |
-
-
+| 28  | Quiz-Game| [Live Demo](https://glistening-pothos-2e923c.netlify.app/)      |
 
